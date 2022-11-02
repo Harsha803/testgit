@@ -4,9 +4,27 @@ db = client.test
 print(db)
 
 d = {
-"har":"var",
-"mar":"gar",
-"bar": "far"
+"harsha" : "greesu",
+"varsha:":"geetu",
+"garsha":"gee"
+}
+
+d = {
+"harsha" : "greesu",
+"varsha:":"geetu",
+"garsha":"gee"
+}
+
+d = {
+"harsha" : "greesu",
+"varsha:":"geetu",
+"garsha":"gee"
+}
+
+d = {
+"harsha" : "greesu",
+"varsha:":"geetu",
+"garsha":"gee"
 }
 db1 = client['mongotest1']
 coll = db1['test']
